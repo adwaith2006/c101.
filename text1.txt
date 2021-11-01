@@ -1,0 +1,9 @@
+drop box is a cloud storage service and we are using dropbox module to upload the file on dropbox.
+create dropbox account
+create app
+choose an api
+choose full dropbox
+give name to your app
+click on create app button
+in settings,generate token
+copy access token and use it in your code
